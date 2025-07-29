@@ -1,14 +1,13 @@
-# BPOL5000 Readings, Case Studies, Simulations, and Other Materials
+# BPOL5000 — Business Policy
+### Readings, Case Studies, Simulations, and Other Materials
 
 This is a list of all the readings, cases, simulations, and other materials used in the course. There is no textbook.
 
 You must secure all the materials listed below that are flagged as "essential" before each relevant session.
 
-**IMPORTANT**
-
 **The essential readings/materials are truly required**: it will be extremely challenging to understand the course without studying them. You won't be able to succefully complete the weekly activities and the coursework assignments without studying all the essential readings/materials. Typically, we will not discuss them extensively in class unless you have questions. The optional readings/materials are truly optional: you will understand the course without studying them.
 
-- **Review the “Course Outline” and each relevant session block in the “Syllabus” section of the Course Manual for details on the essential materials and the assigned preparatory work for each session.**
+- **Review the “Course Outline” and each relevant session block in the “Syllabus” section of the Course Manual for details on the preparatory work required for each weekly session, including all the essential materials that must be reviewed before the session.**
   - Read carefully the Course Manual in all its parts. It includes the syllabus as well as detailed guidelines and instructions on all the assessment components as well as detailed information on the course structure, assignments, and deadlines.
     - You will not be able to complete the weekly activities and the coursework assignments without reading the guidelines and instructions provided in the Course Manual.
 - **Install the the Microsoft Office Software Suite on your personal laptop**. Excel, Word, and PowerPoint will be required for multiple individual and team activities. You will not be able to participate in the simulations if you do not have these applications installed locally on your laptop.
