@@ -47,5 +47,6 @@ You must secure all the materials listed below that are flagged as "essential" b
 | RESEARCH ARTICLE  | Competitive Familiarity: Learning to Coordinate by Competing                                     | https://pubsonline.informs.org/doi/full/10.1287/orsc.2022.17068                                                         | OPTIONAL  | 0     |
 | RESEARCH ARTICLE  | Extemporaneous Coordination in Specialist Teams: The Familiarity Complementarity                 | https://pubsonline.informs.org/doi/full/10.1287/orsc.2020.1376                                                          | OPTIONAL  | 0     |
 | RESEARCH ARTICLE  | How Organizations Claim Authenticity: The Coproduction of Illusions in Underground Restaurants.  | Canvas > Files                                                                                                           | OPTIONAL  | 0     |
+| VIDEO            | Competition is for losers                                                            | https://youtu.be/3Fx5Q8xGU8k                                                                                            | Essential | 0     |
 
 
