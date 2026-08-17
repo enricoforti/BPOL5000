@@ -3,7 +3,8 @@
 
 This is a list of all the readings, cases, simulations, and other materials used in the course. There is no textbook.
 
-You must secure all the materials listed below that are flagged as "essential" before each relevant session.
+- **You must secure and study all the materials that are flagged as "essential" before each relevant session** (e.g., textbook, readings, cases, simulations, and other materials).
+- **Questions on how to secure materials?** Contact your dedicated Business & Data Librarian Megan Cohen megan.cohen@shu.edu
 
 **The essential readings/materials are truly required**: it will be extremely challenging to understand the course without studying them. You won't be able to succefully complete the weekly activities and the coursework assignments without studying all the essential readings/materials. Typically, we will not discuss them extensively in class unless you have questions. The optional readings/materials are truly optional: you will understand the course without studying them.
 
