@@ -49,5 +49,5 @@ This is a list of all the readings, cases, simulations, and other materials used
 | RESEARCH ARTICLE  | Extemporaneous Coordination in Specialist Teams: The Familiarity Complementarity                 | https://pubsonline.informs.org/doi/full/10.1287/orsc.2020.1376                                                          | OPTIONAL  | 0     |
 | RESEARCH ARTICLE  | How Organizations Claim Authenticity: The Coproduction of Illusions in Underground Restaurants.  | Canvas > Files                                                                                                           | OPTIONAL  | 0     |
 | VIDEO            | Competition is for losers                                                            | https://youtu.be/3Fx5Q8xGU8k                                                                                            | Essential | 0     |
-| RESEARCH ARTICLE            | Making business model decisions like scientists: Strategic commitment, uncertainty, and economic performance | https://doi.org/10.1002/smj.3636                                                                                              | Essential | 0     |
-
+| RESEARCH ARTICLE            | Making business model decisions like scientists: Strategic commitment, uncertainty, and economic performance | https://doi.org/10.1002/smj.3636     | Essential | 0     |	
+| THEORY NOTE            | The New Platform Playbook | https://hbr.org/2026/11/the-new-platform-playbook                                                                                              | Essential | 0     |		
